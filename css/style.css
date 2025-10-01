@@ -1,0 +1,11 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    margin: 0 auto;
+}
+ima{
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+}
