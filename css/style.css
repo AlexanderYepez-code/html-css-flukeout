@@ -1,11 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 body{
+
     background-color: lightblue;
+    
 }
-h1{
-    margin: 0 auto;
+.title{
+    color: white;
+    font-size: 2rem;
+    
+    align-items: center;
+    padding-left: 975px;
+
 }
-ima{
-    height: 500px;
-    width: 500px;
-    border-radius: 10px;
+.esercizio{
+    width: 2500px;
+    
+    
+
 }
